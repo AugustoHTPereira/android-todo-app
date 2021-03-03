@@ -1,0 +1,14 @@
+{
+  "User": {
+    "name": "string",
+    "email": "string",
+    "createdAt": "date",
+    "todos": "Todo[]"
+  },
+  "Todo": {
+    "title": "string",
+    "description": "string",
+    "createdAt": "date",
+    "done": "boolean"
+  }
+}
